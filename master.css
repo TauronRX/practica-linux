@@ -1,0 +1,14 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background: rgb(92, 92, 92);
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+.cabecera {
+    font-size: 40px;
+}
